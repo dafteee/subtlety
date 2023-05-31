@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Expand Model method type hinting (#8279)
