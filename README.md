@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Improve Docs arguments tables (#8415)
